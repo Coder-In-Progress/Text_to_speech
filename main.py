@@ -1,3 +1,9 @@
+/***********************************************************************
+Application    : Google enhancement
+Author         : Coder_In_Progress
+Version        : 1.0
+***********************************************************************/
+
 from __future__ import print_function
 import datetime
 import os.path
