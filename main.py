@@ -1,5 +1,5 @@
 /***********************************************************************
-Application    : Google enhancement
+Application    : Text_to_speech Program
 Author         : Coder_In_Progress
 Version        : 1.0
 ***********************************************************************/
